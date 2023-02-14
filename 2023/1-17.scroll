@@ -1,9 +1,6 @@
 date 1-17-2023
 import header.scroll
 
-replace TODAY_NAME Tuesday
-replace TODAYS_DATE 1-17-2023
-replace YESTERDAYS_DATE 1-16-2023
 
 
 

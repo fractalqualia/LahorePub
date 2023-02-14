@@ -1,11 +1,13 @@
 import header.scroll
 groups stories index
 title Status Quo of the Economy
+
 date 1-24-2023
-startColumns 2
+startColumns 4
 
 
-
+* <div class="tagLine"> _The print-at-home daily newspaper for residents of Lahore, Pakistan. <span class="doNotPrint">PDF version.</span>_ </div>
+ link pdfs/1-24.pdf PDF version
 
 
 # Pakistan Economy: A welfare state for the rich.
