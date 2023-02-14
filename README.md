@@ -1,2 +1,0 @@
-# LahorePub
-Newspaper for Lahore
